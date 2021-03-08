@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/fahmi0604?template=classic&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Asia%2FJakarta)
 
 <!--
 **Fahmi0604/Fahmi0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
